@@ -1,2 +1,2 @@
 build_script:
-  - cmd: .\build.cmd
+  - cmd: .\build.bat
